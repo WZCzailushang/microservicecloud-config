@@ -1,8 +1,8 @@
 ﻿spring:
   profiles: dev      #开发环境
   application:
-    name: microservicecloud-config-wzc-dev
----
+    name: microservicecloud-config-wzc-dev 
+--- 
 spring:
   profiles: test      #测试环境
     application:
